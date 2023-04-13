@@ -5,14 +5,15 @@ export default {
     "./src/**/*.{js,ts,jsx,tsx}",
   ],
   theme: {
-    backgroundColor: {
-      primary: '#00040F',
 
-    },
     fontFamily: {
       poppins: [ 'Poppins'],
     },
-    extend: {},
+    extend: {
+      backgroundColor: {
+        primary: '#00040F',
+      },
+    },
   },
   plugins: [],
 }

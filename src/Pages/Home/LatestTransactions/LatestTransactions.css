@@ -1,0 +1,58 @@
+.last-transactions,
+.make-payment {
+  background: linear-gradient(113.08deg, #ffffff -242.51%, #14101d 85.56%);
+  box-shadow: inset -0.243217px -0.243217px 0.364826px rgba(0, 0, 0, 0.36);
+  backdrop-filter: blur(15.2011px);
+  -webkit-backdrop-filter: blur(15.2011px);
+  border-radius: 9.12064px;
+  padding: 20px;
+  width: 346px;
+  height: auto;
+}
+.make-payment {
+  width: 235px;
+}
+.change-btn {
+  font-family: "Poppins";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 12px;
+  line-height: 160%;
+  letter-spacing: 0.01em;
+  background: linear-gradient(
+    157.81deg,
+    #def9fa -43.27%,
+    #bef3f5 -21.24%,
+    #9dedf0 12.19%,
+    #7de7eb 29.82%,
+    #5ce1e6 51.94%,
+    #33bbcf 90.29%
+  );
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  background-clip: text;
+  border: 1px solid #5ce1e6;
+  padding: 7px;
+  border-radius: 5px;
+}
+.make-payment-btn {
+  background: linear-gradient(
+    157.81deg,
+    #def9fa -43.27%,
+    #bef3f5 -21.24%,
+    #9dedf0 12.19%,
+    #7de7eb 29.82%,
+    #5ce1e6 51.94%,
+    #33bbcf 90.29%
+  );
+  border-radius: 10px;
+  font-family: "Poppins";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 12px;
+  line-height: 160%;
+  letter-spacing: 0.01em;
+  color: #00030d;
+  width: 100%;
+  padding: 8px;
+}
