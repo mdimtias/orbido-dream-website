@@ -12,7 +12,7 @@ const Navbar = () => {
         <div className="container mx-auto">
           <div className="flex items-center justify-between">
             <div className="flex justify-center items-center">
-              <img src={Logo} alt="Orbito" />
+              <img src={Logo} alt="Orbido" />
               <h3 className="font-bold uppercase text-white text-2xl">
                 OR<span className="text-[#BB8102]">BIDO</span>
               </h3>

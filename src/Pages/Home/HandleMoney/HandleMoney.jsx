@@ -7,7 +7,7 @@ const HandleMoney = () => {
     return (
         <section className="bg-primary py-12 md:py-16">
             <div className="container mx-auto px-5">
-                <div className="grid gap-10 lg:gap-6 grid-cols lg:grid-cols-2">
+                <div className="grid gap-10 lg:gap-6 lg:grid-cols-2">
                     <div>
                         <h2 className="font-semibold text-5xl text-white mb-5">You do the business, <br /> we’ll handle the money.</h2>
                         <p className="text-lg text-white font-poppins opacity-70 mb-5">With the right credit card, you can improve your financial life by building credit, earning rewards and saving money. But with hundreds of credit cards on the market.</p>

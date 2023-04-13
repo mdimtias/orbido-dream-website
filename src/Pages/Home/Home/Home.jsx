@@ -4,6 +4,9 @@ import Navbar from "../Navbar";
 import HandleMoney from "../HandleMoney/HandleMoney";
 import LatestTransactions from "../LatestTransactions/LatestTransactions";
 import { Toaster } from "react-hot-toast";
+import GetStarted from "../GetStarted/GetStarted";
+import Brand from "../Brand/Brand";
+import Footer from "../Footer/Footer";
 
 const Home = () => {
   return (
@@ -13,6 +16,9 @@ const Home = () => {
       <Hero></Hero>
       <LatestTransactions></LatestTransactions>
       <HandleMoney></HandleMoney>
+      <Brand></Brand>
+      <GetStarted></GetStarted>
+      <Footer></Footer>
     </>
   );
 };

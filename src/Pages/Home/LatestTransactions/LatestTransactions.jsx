@@ -11,7 +11,7 @@ import "./LatestTransactions.css";
 import { toast } from 'react-hot-toast';
 const LatestTransactions = () => {
     const handlePayment = ()=>{
-        toast.success('Payment Successful!')
+        toast.success('Great! Your Payment is successfully complete.')
     }
     return (
         <section className="bg-primary py-16 lg:pb-20 lg:pt-44">
